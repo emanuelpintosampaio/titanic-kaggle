@@ -1,0 +1,10 @@
+# Dados do Kaggle (não podem ser redistribuídos)
+data/
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/

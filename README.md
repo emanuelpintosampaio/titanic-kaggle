@@ -1,4 +1,4 @@
-# Titanic — Ciência de Dados
+# Titanic - Ciência de Dados
 
 Projeto de estudo baseado na competição [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) do Kaggle: prever quais passageiros sobreviveram ao naufrágio a partir de dados como sexo, idade, classe e família.
 

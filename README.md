@@ -72,6 +72,3 @@ uv run jupyter lab
 
 Depois, rode os notebooks em ordem.
 
-## Tecnologias
-
-Python, pandas, matplotlib, seaborn, scikit-learn e JupyterLab.
